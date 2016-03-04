@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Simple Blog</title>
+        <title>Simple Blog Ozi</title>
         <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" >
         <link rel="stylesheet" href="{{asset('assets/css/starter-template.css')}}" >
     </head>
@@ -30,13 +30,13 @@
             <div class="row">
                 <div class="col-md-8">
                     <div class="article">
-                        <h1>Lorem Ipsum Article</h1>
+                        <h1>Lorem Ipsum Article OZI</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dui eu libero congue sagittis. Vestibulum sed libero massa. Duis odio enim, convallis nec eleifend eget, aliquet blandit purus. Nulla mattis placerat diam. In sodales, sapien in ultricies vulputate, tortor quam tincidunt erat, a feugiat felis nibh iaculis velit. Quisque eget volutpat enim, vitae scelerisque tellus. In pulvinar massa ligula, vel consequat odio molestie sed. Quisque imperdiet varius pellentesque. Cras vulputate tincidunt libero, a maximus justo euismod eu. Cras magna velit, congue quis laoreet ut, congue vel turpis. Fusce ac dolor et ipsum congue congue sit amet eu justo.</p>
                         <p>Vivamus ac massa neque. Nullam auctor sagittis enim, eget blandit dui faucibus nec. Pellentesque rutrum nec quam quis tempus. Morbi tempus dignissim orci eget lacinia. Sed ac nulla enim. Fusce quis sollicitudin magna. Fusce in nulla tortor. Maecenas sollicitudin nisi justo, sit amet aliquam nisi convallis laoreet. Duis libero eros, tempor vel dolor quis, dignissim finibus tellus. Proin nec tortor porttitor, convallis ante a, consequat elit. Proin at ante lectus.</p>
                         <p>Cras ut vestibulum sapien. Aliquam dignissim, lacus quis vestibulum viverra, ante metus rutrum velit, quis convallis felis mi at lectus. Mauris mollis dolor lacus, a facilisis metus aliquam non. Praesent sit amet elit tortor. Sed eleifend viverra mauris, sit amet elementum enim tempus vel. Nullam quis felis elementum purus hendrerit rhoncus eu in risus. Mauris et convallis ipsum, eu mattis eros. Pellentesque vel libero massa. Maecenas libero arcu, semper a malesuada sed, maximus eget enim. In ac velit laoreet, lobortis arcu nec, ultrices mauris. Suspendisse dapibus tempor mi, a bibendum tellus gravida nec. Nulla dictum scelerisque enim, et sagittis sapien hendrerit id. Pellentesque sit amet efficitur augue, eu tristique justo.</p>
                     </div>
                     <div class="article">
-                        <h1>Lorem Ipsum Article</h1>
+                        <h1>Lorem Ipsum Article OZI</h1>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dui eu libero congue sagittis. Vestibulum sed libero massa. Duis odio enim, convallis nec eleifend eget, aliquet blandit purus. Nulla mattis placerat diam. In sodales, sapien in ultricies vulputate, tortor quam tincidunt erat, a feugiat felis nibh iaculis velit. Quisque eget volutpat enim, vitae scelerisque tellus. In pulvinar massa ligula, vel consequat odio molestie sed. Quisque imperdiet varius pellentesque. Cras vulputate tincidunt libero, a maximus justo euismod eu. Cras magna velit, congue quis laoreet ut, congue vel turpis. Fusce ac dolor et ipsum congue congue sit amet eu justo.</p>
                         <p>Vivamus ac massa neque. Nullam auctor sagittis enim, eget blandit dui faucibus nec. Pellentesque rutrum nec quam quis tempus. Morbi tempus dignissim orci eget lacinia. Sed ac nulla enim. Fusce quis sollicitudin magna. Fusce in nulla tortor. Maecenas sollicitudin nisi justo, sit amet aliquam nisi convallis laoreet. Duis libero eros, tempor vel dolor quis, dignissim finibus tellus. Proin nec tortor porttitor, convallis ante a, consequat elit. Proin at ante lectus.</p>
                         <p>Cras ut vestibulum sapien. Aliquam dignissim, lacus quis vestibulum viverra, ante metus rutrum velit, quis convallis felis mi at lectus. Mauris mollis dolor lacus, a facilisis metus aliquam non. Praesent sit amet elit tortor. Sed eleifend viverra mauris, sit amet elementum enim tempus vel. Nullam quis felis elementum purus hendrerit rhoncus eu in risus. Mauris et convallis ipsum, eu mattis eros. Pellentesque vel libero massa. Maecenas libero arcu, semper a malesuada sed, maximus eget enim. In ac velit laoreet, lobortis arcu nec, ultrices mauris. Suspendisse dapibus tempor mi, a bibendum tellus gravida nec. Nulla dictum scelerisque enim, et sagittis sapien hendrerit id. Pellentesque sit amet efficitur augue, eu tristique justo.</p>
