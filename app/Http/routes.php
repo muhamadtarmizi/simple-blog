@@ -1,3 +1,4 @@
+
 <?php
 
 /*
@@ -15,6 +16,13 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/posts', ['as' => 'posts.index', function () {
+    return view('posts.index');
+}]);
+
+Route::get('/posts/form', ['as' => 'posts.form', function () {
+    return view('posts.form');
+}]);
 /*
 |--------------------------------------------------------------------------
 | Application Routes
